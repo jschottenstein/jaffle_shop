@@ -1,6 +1,11 @@
 id,first_name,last_name
 1,Michael,P.
+<<<<<<< HEAD
 2,Shawn,K.
+=======
+<<<<<<< HEAD
+2,Julia,S.
+>>>>>>> 28d70161f6672c6b2dd7353875a5415b720765b6
 3,Kathleen,P.
 4,Jimmy,C.
 5,Katherine,R.
